@@ -1,0 +1,24 @@
+{
+  "name": "kubechain",
+  "version": "0.1.0",
+  "description": "Educational-purpose proof-of-work blockchain written in Javascript",
+  "main": "kubechain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkubdev/KubeChain.git"
+  },
+  "keywords": [
+    "blockchain",
+    "sha256",
+    "crypto"
+  ],
+  "author": "mkubdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkubdev/KubeChain/issues"
+  },
+  "homepage": "https://github.com/mkubdev/KubeChain#readme"
+}
